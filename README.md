@@ -1,2 +1,2 @@
 # hello-world
-Repository for practicing GitHub flow
+Repository for practicing GitHub flow - Time to learn!
